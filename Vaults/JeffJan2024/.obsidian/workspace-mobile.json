@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "a5026c3f06c96e66",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cbe6f65bf5eb18f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aa3d2a732dbd329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RevLocal/Learning/Code Mash/2024/Planned Schedule.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f748eddaaaeab04",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3540f63b0f53b5ca",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "126259bf067f6ea5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "865e9d8da9cd8178",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "9088167ce593efac",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b9088a3b88b9e018",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2a4869fa9c09a88c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "RevLocal/Learning/Code Mash/2024/Planned Schedule.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1c4a66994ae0c985",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "RevLocal/Learning/Code Mash/2024/Planned Schedule.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4dba17ac8e45f5c0",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "RevLocal/Learning/Code Mash/2024/Planned Schedule.md"
+          }
+        }
+      },
+      {
+        "id": "8d598f815e85293e",
+        "type": "leaf",
+        "state": {
+          "type": "graph-analysis",
+          "state": {}
+        }
+      },
+      {
+        "id": "1730e29ae16f19b0",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "dbfolder:Create a new database table": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "personal-assistant:Obsidian Assistant": false,
+      "obsidian-journey-plugin:Find Journey": false,
+      "obsidian-day-planner:Timeline": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-memos:Memos": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "3aa3d2a732dbd329",
+  "lastOpenFiles": [
+    "RevLocal/Learning/Code Mash/2024/Pasted image 20240111111701.jpg",
+    "RevLocal/Learning/Code Mash/2024/Pasted image 20240111111220.jpg",
+    "RevLocal/Learning/Books/Phoenix/The Unicorn Project Book Club Outline.pdf",
+    "RevLocal/Learning/Code Mash/2024/Planned Schedule.md",
+    "RevLocal/01 Daily Notes/2024-2 1-8 to 1-14/2024-01-09.md",
+    "Religion/Church/2024-01-07.md",
+    "2024/Dating/Kimberly Richardson/Dates.md",
+    "2024/Dating/Kimberly Richardson/Affirmations For ME.md",
+    "2024/Dating/Kimberly Richardson/Date Ideas.md",
+    "RevLocal/Learning/Books/Phoenix/Review Of Book.md",
+    "2023/03 Daily/01/2024-01-05.md",
+    "2023/02 Weekly/2024-W01.md",
+    "RevLocal/Learning/Videos/Exam AZ-900 Microsoft Azure Fundamentals, 3rd Edition copy/Lesson 9 Describe features and tools for governance and compliance/Lesson 9.md",
+    "2024/Dating/Date Ideas/Cool Places to Get Drinks.md",
+    "2024/Dating/Date Ideas",
+    "Untitled 1",
+    "Untitled",
+    "RevLocal/One on One Discussions/Marko/2023-01-.md",
+    "ADDev Biz/SSL Certs/Types of Certs.md",
+    "ADDev Biz/SSL Certs/Pasted image 20240103120947.png",
+    "RevLocal/One on One Discussions/Tommy/2024-01-04.md",
+    "RevLocal/One on One Discussions/Paul/2024-01-.md",
+    "RevLocal/01 Daily Notes/2024-1 1-1 to 1-7 SE/Untitled.md",
+    "RevLocal/Learning/Videos/Exam AZ-900 Microsoft Azure Fundamentals, 3rd Edition copy/Lesson 8 Describe cost management in Azure/Lesson 8.md",
+    "RevLocal/Learning/Videos/Exam AZ-900 Microsoft Azure Fundamentals, 3rd Edition copy/Lesson 7 Describe Azure identity, access, and security/Lesson 7.md",
+    "ADDev Biz/SSL Certs On Namecheap/Install Cert From ZeroSSL.md",
+    "Software Development/Python/Who Is.md",
+    "RevLocal/Learning/Videos/Exam AZ-900 Microsoft Azure Fundamentals, 3rd Edition copy/Lesson 4 Describe the core architectural components of Azure/Lesson 4.md",
+    "2023/03 Daily/12/2023-12-23.md",
+    "Plugins Notes/youtuberecall/HubermanFlexibility/source/HubermanFlexibility.mp3",
+    "Plugins Notes/youtuberecall/HubermanFlexibility/source/paragraphs/paragraph_object_176.json",
+    "Plugins Notes/youtuberecall/HubermanFlexibility/source/paragraphs/paragraph_object_39.json",
+    "Plugins Notes/youtuberecall/HubermanFlexibility/source/paragraphs/paragraph_object_135.json",
+    "Plugins Notes/youtuberecall/HubermanFlexibility/source/paragraphs/paragraph_object_134.json",
+    "Plugins Notes/youtuberecall/HubermanFlexibility/HubermanFlexibility Summary.md",
+    "RevLocal/01 Daily Notes/2023-52 12-25 to 12-31 Christmas/RevLocal 2023-12-26.md",
+    "Plugins Notes/youtuberecall/HubermanFlexibility/source/summary/init_summary_object.json",
+    "Plugins Notes/youtuberecall/HubermanFlexibility/transcript/HubermanFlexibility Transcript.md",
+    "Software Development/Python/images/Pasted image 20231208142124.png",
+    "ADDev Biz/7figureacceleration/Pasted image 20231201092010.png",
+    "Health/images/Pasted image 20231128204241.png",
+    "Fitness/Images/IMG_0711.jpeg",
+    "Fitness/Images/IMG_0713.jpeg",
+    "How to use Obsidian/Image Hold/Pasted image 20231113184826.png",
+    "How to use Obsidian/Image Hold/Pasted image 20231113184629.png",
+    "How to use Obsidian/Image Hold/Pasted image 20231113185440.png"
+  ]
+}

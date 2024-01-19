@@ -1,0 +1,13 @@
+{
+  "accentColor": "#66ccff",
+  "cssTheme": "Blue Topaz",
+  "enabledCssSnippets": [
+    "dashboard"
+  ],
+  "baseFontSize": 16,
+  "interfaceFontFamily": "AppleGothic",
+  "translucency": false,
+  "textFontFamily": "Quicksand",
+  "monospaceFontFamily": "Monaco",
+  "theme": "obsidian"
+}

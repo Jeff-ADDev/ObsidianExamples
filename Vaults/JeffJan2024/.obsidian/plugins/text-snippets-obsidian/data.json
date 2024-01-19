@@ -1,0 +1,16 @@
+{
+  "snippets_file": "emph-jeff : <span style=\"font-family: cursive\">$end$</span>\n,\nemph-joe : Test Jpe\n",
+  "snippets": [
+    "emph-jeff : <span style=\"font-family: cursive\">$end$</span>",
+    ",",
+    "emph-joe : Test Jpe"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}

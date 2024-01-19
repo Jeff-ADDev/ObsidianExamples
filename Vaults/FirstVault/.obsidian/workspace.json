@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "5df9fbc409467358",
+    "type": "split",
+    "children": [
+      {
+        "id": "46d656f4a1e8f2cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bd041e115a8e8b4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "335622ee3750a95e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e5e1124ff39f063",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "969564af213f5f51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d03e9d548595a453",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "300ae414f2a0d3b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d193d6d57425a396",
+    "type": "split",
+    "children": [
+      {
+        "id": "2570e15eb50203a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "604b6f5b7fe1e7de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fa2c5ebf5ff7964",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c92248016f338aed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bbb56c6ff9d8d228",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9bd041e115a8e8b4",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "My Health.md",
+    "Joys of Skiing.md",
+    "Demo Canvas.canvas",
+    "Topic 1 about water.md"
+  ]
+}

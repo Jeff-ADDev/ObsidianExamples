@@ -1,0 +1,312 @@
+{
+  "main": {
+    "id": "4c789062aca9af98",
+    "type": "split",
+    "children": [
+      {
+        "id": "e640f512dbb1dad2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed486bd55d0e29c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RevLocal/One on One Discussions/James Neno/2023-12-01.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "af22fee59d2fc541",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023/03 Daily/12/2023-12-05.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d5c081a6b82ee1e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ADDev Biz/Purchases/emClient/emClient Purchase.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4f91dd630512a509",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023/Weekly Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d49396d2857f764",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily Note.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0de4ac20887efec",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9f532807ba62936",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09192e479c01ddb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023/03 Daily/11/2023-11-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de0314b40d299523",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#test/data",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "451fba4735fd55aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ff3e857421a5e99",
+            "type": "leaf",
+            "state": {
+              "type": "center-panes",
+              "state": {}
+            }
+          },
+          {
+            "id": "6545b076034749c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 394.5024719238281
+  },
+  "right": {
+    "id": "cf70d4b8e91fc927",
+    "type": "split",
+    "children": [
+      {
+        "id": "4339fa73c7461429",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "295a8292a05526a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023/03 Daily/12/2023-12-05.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88f090dbcec6b0c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "80eb7c037dc9b064",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023/03 Daily/12/2023-12-05.md"
+              }
+            }
+          },
+          {
+            "id": "9d84a4b883b7c233",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "495dcd75d5e76271",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "73febeabf0c5acb3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "727e3d0e85417e51",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "50969b08cee5208c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023/03 Daily/12/2023-12-05.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "copilot:Copilot Chat": false,
+      "personal-assistant:Obsidian Assistant": false,
+      "obsidian-journey-plugin:Find Journey": false,
+      "obsidian-day-planner:Timeline": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-memos:Memos": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "af22fee59d2fc541",
+  "lastOpenFiles": [
+    "AI/OpenAI/Pydantic/Untitled.md",
+    "AI/OpenAI/Pydantic",
+    "AI/OpenAI/Untitled",
+    "AI/Trial7/transcript/Trial7 Transcript.md",
+    "AI/Trial7/transcript",
+    "AI/Trial7/Trial7 Summary.md",
+    "AI/Trial7",
+    "2023/03 Daily/11/2023-11-28.md",
+    "2023/03 Daily/12/2023-12-05.md",
+    "Software Development/Python/venv/Python venv on Mac.md",
+    "AI/OpenAI/SDK Overview.md",
+    "AI/OpenAI",
+    "RevLocal/One on One Discussions/Paul/2023-11-29.md",
+    "Plugins Notes/youtuberecall/Trial4/transcript/Trial4 Transcript.md",
+    "Plugins Notes/youtuberecall/Trial4/Trial4 Summary.md",
+    "Plugins Notes/youtuberecall/Trial4/transcript",
+    "Plugins Notes/youtuberecall/Trial4",
+    "www.youtube.com/watch?v=vYym30GKqsE.md",
+    "www.youtube.com",
+    "Plugins Notes/youtuberecall/Trial4 Transcript.md",
+    "Plugins Notes/youtuberecall/Trial link Trial4 Transcript.md",
+    "Plugins Notes/youtuberecall/Trial4.md",
+    "Plugins Notes/youtuberecall/Name Transcript.md",
+    "Plugins Notes/youtuberecall",
+    "Religion/Church/2023-12-3.md",
+    "2023-12-3.md",
+    "ADDev Biz/7figureacceleration/Pasted image 20231201092010.png",
+    "ADDev Biz/7figureacceleration/Investigation.md",
+    "ADDev Biz/7figureacceleration",
+    "Software Development/Python/PyQt/The Basics.md",
+    "RevLocal/One on One Discussions/Matt Sullivan/2023-11-30.md",
+    "RevLocal/One on One Discussions/Matt Sullivan/Untitled.md",
+    "Software Development/Python/tkinter/Figma As Designer.md",
+    "Software Development/Python/tkinter/Untitled.md",
+    "Simulators/Xplane 12/PilotEdge.Net.md",
+    "RevLocal/One on One Discussions/Paul/Next One on One.md",
+    "RevLocal/One on One Discussions/David Lowry/2023-11-27.md",
+    "Health/images/Pasted image 20231128204241.png",
+    "Fitness/Images/IMG_0713.jpeg",
+    "Fitness/Images/IMG_0711.jpeg",
+    "How to use Obsidian/Image Hold/Pasted image 20231113184116.png",
+    "How to use Obsidian/Image Hold/Pasted image 20231115174358.png",
+    "Nutrition/Recipies/Images/Pasted image 20231119151536.png",
+    "Nutrition/Recipies/Images/Pasted image 20231119133723.png",
+    "How to use Obsidian/Image Hold/Pasted image 20231118175138.png",
+    "How to use Obsidian/Image Hold/Pasted image 20231118174547.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Plugins Notes/Pass One/Untitled.canvas"
+  ]
+}

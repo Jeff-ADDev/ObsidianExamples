@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"9e06805f00ed057a","x":-1620,"y":-630,"width":500,"height":400,"type":"file","file":"2024/04 Daily/01/2024-01-18.md"},
+		{"id":"7c5de3131acfc4cd","type":"text","text":"This is a note that is not in the vault","x":-1200,"y":-140,"width":250,"height":60,"color":"5"},
+		{"id":"5d4e039c2233e6c8","x":-880,"y":-1060,"width":1200,"height":790,"type":"link","url":"https://www.revlocal.com"},
+		{"id":"c2fc59ca7e1d1486","x":-450,"y":-140,"width":340,"height":60,"color":"1","type":"text","text":"Web pages are interactive in Canvas"}
+	],
+	"edges":[
+		{"id":"d5e47ab2843cd741","fromNode":"9e06805f00ed057a","fromSide":"bottom","toNode":"7c5de3131acfc4cd","toSide":"left"},
+		{"id":"87b46ab3c1f9482d","fromNode":"5d4e039c2233e6c8","fromSide":"bottom","toNode":"c2fc59ca7e1d1486","toSide":"top"}
+	]
+}
